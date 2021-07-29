@@ -125,8 +125,8 @@ header .slider {
   font-size: 20px;
 }
 .price-details .price::after {
-  content: "/mon";
-  right: -33px;
+  content: "/ mo";
+  right: -25px;
   bottom: 17px;
   font-size: 13px;
 }
