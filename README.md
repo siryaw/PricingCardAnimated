@@ -28,4 +28,3 @@ This project is licensed under the MIT license.
 
 <img src="https://avatars.githubusercontent.com/u/58599877?v=4" alt="avatar" style="border-radius: 16px" width="30" />
 If you have any questions about the repo, open an issue or contact [siryaw](https://api.github.com/users/siryaw) directly at null.
-```
