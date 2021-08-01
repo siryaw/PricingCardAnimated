@@ -2,6 +2,8 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/siryaw/abc-investing-pricing-card)
 
+![screen](ABC.png)
+
 ## Description
 
 Created a Pricing Card (design element on a website that displays various prices for items, subscriptions, etc) with sliding animation coded only with HTML & pure CSS.
