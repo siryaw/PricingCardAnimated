@@ -4,7 +4,7 @@
 
 ## Description
 
-Created a Pricing Card (design element on a website that didsplays various prices for items, subscriptions, etc) with sliding animation with only HTML & pure CSS.
+Created a Pricing Card (design element on a website that displays various prices for items, subscriptions, etc) with sliding animation coded only with HTML & pure CSS.
 
 ## Table of Contents
 
