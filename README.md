@@ -14,11 +14,9 @@ Created a Pricing Card (design element on a website that didsplays various price
 
 ## Demo
 
-Run to install the necessary dependencies:
+[Demo Here](www.ABCInvestingPricingCard.surge.sh)
 
 ```
-
-[Demo Here](www.ABCInvestingPricingCard.surge.sh)
 
 ```
 
